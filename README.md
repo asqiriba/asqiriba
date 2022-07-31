@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi, I'm Hassan! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-<!--
-**asqiriba/asqiriba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Always curious to learn cutting edge technology. Love connecting with different people.
 
-Here are some ideas to get you started:
+```dart
+const kMe = {
+  pronouns: "he" | "him",
+  code: [Python, TS, Dart, Java],
+  tools: [Flask, Django, NodeJS, React, Janus-Gateway, GPT-3, TTS, AudioDVP, GCP, Tacotron2, Wav2Lip, Rasa Chat-bot, Postgres, AWS, GCP],
+  architecture: ["microservices", "event-driven", "trunk-based"],
+  assets: {
+            certifications: true,
+            relocationAvailability: true,
+            drinkEnoughCoffee: false
+          },
+}
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://in.linkedin.com/in/federiz">
+    <img align="right" alt="Hassan | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
+  </a>
