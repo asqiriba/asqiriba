@@ -7,7 +7,7 @@ const kMe = {
   pronouns: "he" | "him",
   code: [Python, TS, Dart, Java],
   tools: [Flask, NextJS, React, Janus-Gateway, GPT-3, TTS, AudioDVP, GCP, Tacotron2, Wav2Lip, Rasa Chat-bot, Postgres, AWS, GCP],
-  architecture: ["microservices", "event-driven", "trunk-based"],
+  style: ["microservices", "event-driven", "trunk-based"],
   assets: {
             certifications: true,
             relocationAvailability: true,
