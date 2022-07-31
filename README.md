@@ -11,7 +11,7 @@ const kMe = {
   assets: {
             certifications: true,
             relocationAvailability: true,
-            drinkEnoughCoffee: false
+            drankEnoughCoffee: false
           },
 }
 ```
