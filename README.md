@@ -6,7 +6,7 @@ I'm a software engineer who is passionate about making open-source more accessib
 const kMe = {
   pronouns: "he" | "him",
   code: [Python, TS, Dart, Java],
-  tools: [Flask, Django, NodeJS, React, Janus-Gateway, GPT-3, TTS, AudioDVP, GCP, Tacotron2, Wav2Lip, Rasa Chat-bot, Postgres, AWS, GCP],
+  tools: [Flask, NextJS, React, Janus-Gateway, GPT-3, TTS, AudioDVP, GCP, Tacotron2, Wav2Lip, Rasa Chat-bot, Postgres, AWS, GCP],
   architecture: ["microservices", "event-driven", "trunk-based"],
   assets: {
             certifications: true,
