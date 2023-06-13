@@ -1,6 +1,6 @@
 ### Hi, I'm Hassan! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-I'm a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some tech stack I work with include Python, FastAPI, Janus, GPT, Rasa, Google Cloud Platform (GCP), TTS, System Architecture, Machine LearningSkills, GCP, AWS, and Docker.
+I'm a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some tech stack I work with include Python, FastAPI, Janus, GPT, Rasa, Google Cloud Platform (GCP), TTS, System Architecture, Machine Learning, GCP, AWS, and Docker.
 
 ```dart
 const kMe = {
